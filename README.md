@@ -5,6 +5,4 @@ NS_st is an excutable file for calibrating & simulating NS(s-t) model.
 
 ## Usage
 
-simply click the .exe in each filebox, output data will be saved in a sub-filebox called 'data'.
-
-## License
+simply click the .exe in each filebox, output data will then be saved in a sub-filebox called 'data'.
